@@ -4,7 +4,8 @@
 A Python tool to search for usernames on multiple social media platforms. The script takes a username as input and checks across 100+ popular social media platforms to see if the username exists.
 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2dcd1fdc-6e0d-443d-a66c-83cde0a37d88)
+
 
 
 ## Features
