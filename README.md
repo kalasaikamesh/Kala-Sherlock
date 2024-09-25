@@ -6,6 +6,8 @@ A Python tool to search for usernames on multiple social media platforms. The sc
 
 ![image](https://github.com/user-attachments/assets/2dcd1fdc-6e0d-443d-a66c-83cde0a37d88)
 
+![image](https://github.com/user-attachments/assets/5bb4221d-b134-4463-8a04-1a186c819040)
+
 
 
 ## Features
