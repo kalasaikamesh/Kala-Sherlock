@@ -1,4 +1,5 @@
-# Sherlock-Style Social Media Account Finder
+# Sherlock-Style Social Media Account Finder 
+## Author : N V R K SAI KAMESH SHARMA 
 
 A Python tool to search for usernames on multiple social media platforms. The script takes a username as input and checks across 100+ popular social media platforms to see if the username exists.
 
