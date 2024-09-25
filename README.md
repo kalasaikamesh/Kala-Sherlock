@@ -1,6 +1,7 @@
 # Sherlock-Style Social Media Account Finder
 
 A Python tool to search for usernames on multiple social media platforms. The script takes a username as input and checks across 100+ popular social media platforms to see if the username exists.
+![image](https://github.com/user-attachments/assets/46066ba6-f739-4447-8cf8-dc4ea0575849)
 
 ## Features
 - Supports 100+ social media platforms.
