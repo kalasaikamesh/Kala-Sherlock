@@ -19,7 +19,18 @@ Before running the script, ensure you have installed the required dependencies b
 
 ```bash
 git clone https://github.com/kalasaikamesh/Kala-Sherlock.git 
-cd Kala-sherlock
+cd Kala-Sherlock
 pip install -r requirements.txt
 python -m sherlock.main
+
+```
+## if u are using wsl2 like kali etc....
+
+```bash
+git clone https://github.com/kalasaikamesh/Kala-Sherlock.git 
+cd Kala-Sherlock
+sudo apt install python3-pip
+pip3 install -r requirements.txt
+python3 -m sherlock.main
+```
 
